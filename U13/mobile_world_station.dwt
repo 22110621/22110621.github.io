@@ -1,0 +1,122 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<link rel="stylesheet" href="main.css" />
+<!-- #BeginEditable "doctitle" -->
+<title>Mobile World Station</title>
+<!-- #EndEditable -->
+</head>
+<body>
+<header class="global-header">
+        <div class="global-logo">
+            <a href="/">
+                <img src="assets/header.png" alt="Nav Logo" />
+            </a>
+        </div>
+    <div class="row">
+        <nav class="nav-menu">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li id="services" class="dropdown"><a href="#">Forums</a>
+                <div class="sub-nav">
+                    <div class="sub-nav-col left">
+                        <a href="help.html" class="sub-nav-box" id="box-1">
+                            <div class="icon-background" id="icon-1">
+                                <i class="fab fa-sellsy icon"></i>
+                            </div>
+                            <h4>Help</h4>
+                            <p>View helpful articles</p>
+                        </a>
+                        <a href="useful-information.html" class="sub-nav-box" id="box-2">
+                            <div class="icon-background" id="icon-2">
+                                <i class="fas fa-user-lock icon"></i>
+                            </div>
+                            <h4>Useful information</h4>
+                            <p>View useful information about pricing, contracts etc</p>
+                        </a>                        
+                    </div>                    
+                </div>
+            </li>
+                <li><a href="deals.html">Deals</a></i>
+                <li id="services" class="dropdown"><a href="#">Phones</a>
+                <div class="sub-nav">
+                    <div class="sub-nav-col left">
+                        <a href="phones.html" class="sub-nav-box" id="box-1">
+                            <div class="icon-background" id="icon-1">
+                                <i class="fab fa-sellsy icon"></i>
+                            </div>
+                            <h4>All phones</h4>
+                            <p>View helpful articles</p>
+                        </a>
+                        <a href="#" class="sub-nav-box" id="box-2">
+                            <div class="icon-background" id="icon-2">
+                                <i class="fas fa-user-lock icon"></i>
+                            </div>
+                            <h4>Contracts</h4>
+                            <p>View handpicked contracts that work best for you</p>
+                        </a>                        
+                    </div>                    
+                </div>
+            </li>
+            <li><a href="accessories.html">Accessories</a></li>
+            <li><a href="contact.html">Contact</a></li>
+                <li id="services" class="dropdown"><a href="#">Theme</a>
+                <div class="sub-nav">
+                    <div class="sub-nav-col left">               
+                     </div>                    
+                </div>
+            </li>
+            </ul>
+        </nav>
+    </div>
+</header>
+
+<!-- #BeginEditable "body" -->
+<div>
+</div>
+<!-- #EndEditable -->
+
+    <footer>
+        <div class="footer">
+            <div class="footer-links">
+                <ul class="sections">
+                    <li class="footer-item">
+                        <h3 class="header">Home</h3>
+
+                        <ul class="links">
+                            <li><a href="index.html">Home</a></li>
+                        </ul>
+                    </li>
+                    <li class="footer-item">
+                        <h3 class="header">Contact</h3>
+
+                        <ul class="links">
+                            <li><a href="contact.html">Contact</a></li>
+                        </ul>
+                    </li>
+                    <li class="footer-item">
+                        <h3 class="header">Devices</h3>
+
+                        <ul class="links">
+                            <li><a href="phones.html">View Phones</a></li>
+                            <li><a href="accessories.html">Accessories</a></li>
+                            <li><a href="useful-information.html">Information and tips</a></li>
+                        </ul>
+                    </li>                    
+
+                </ul>
+            </div>
+            <div class="footer-logo">
+                <a href="/"><img src="assets/header.png" alt="Footer Logo" /></a>
+            </div>
+            <div class="copyright">
+                <h5>Mobile World Station &#64; 2023</h5>
+            </div>      
+        </div>
+        </footer>
+    <script src="https://kit.fontawesome.com/f59cc80922.js" crossorigin="anonymous"></script>
+</body>
+
+</html>
