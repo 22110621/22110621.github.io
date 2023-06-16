@@ -1,4 +1,4 @@
-/*
+﻿/*
 
 Mobile World Station - built by JD
 
@@ -1314,6 +1314,44 @@ Utility Classes
   border-radius: 10px;
   transition: 500ms ease-in-out;
 }
+
+/*Contracts */
+.contracts {
+	display:flex;
+	padding-block: 9px;
+	flex-direction: column;
+	gap: 1rem;
+	background: white;
+	height: 300px;
+}
+
+.contracts > .contract {
+   padding: 12px;
+   display: grid; 
+-webkit-box-shadow: 0px 6px 16px -1px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 6px 16px -1px rgba(0,0,0,0.75);
+box-shadow: 0px 6px 16px -1px rgba(0,0,0,0.75);
+   grid-template-rows: 65px;
+   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+   
+   gap: 0px;
+   height: 100%;
+}
+
+.contracts > .contract > .contract-action > button {
+	height: 40px;
+	width: 165px;
+    background: linear-gradient(180deg,#3795d1 0%,#267ab0 100%);
+    border-radius: 8px;
+    border: none;   
+}
+
+.contracts > .contract > .contract-action > button a {
+text-decoration:none;
+color:white;
+}
+
+
 .cta__banner .cta__content .cta__button:hover {
   scale: 1.2;
   cursor: pointer;
