@@ -83,7 +83,7 @@
                                     <h5>Iphone charger one pack/ Accessories</h5>
                                 </div>
                                 <div class="product-image">
-                                    <img src="/assets/accessories/charger.png" alt="stuff" width="320" height="240">
+                                    <img src="/assets/accessories/chargers/charger.png" alt="stuff" width="320" height="240">
                                 </div>
                                 <div class="description">
                                     Charge your devices with stock apple charging plugs.
